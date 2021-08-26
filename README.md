@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Jowel Ahmed.
+I am mobile app developer in the field of android with Java and Kotlin. I have jsut complited my gradutaion in Computer Science in Engineering from Daffodil International University in 30 Septembar,2021. Now I am tring to learn Flutter.
 
 
 - 🔭 I’m currently working on native android app
